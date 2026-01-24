@@ -2,7 +2,7 @@
 
 ---
 
-# <a id="türkçe"></a>🇹🇷 TÜRKÇE
+# <a id="türkçe"></a>TÜRKÇE
 
 # Yüz Tanıma Sistemi (Face Recognition)
 
